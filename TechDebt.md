@@ -1,5 +1,5 @@
-# (Name of the project)
+# Convert string to camel case
 
 ## 1. part
 
-- Questions and decesions.
+- A function was created to verify the string variable.
