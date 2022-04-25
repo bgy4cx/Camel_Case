@@ -19,10 +19,10 @@ This is an exercise from CodeWar.
 
 ### Guardinas
 
-- The input is a string.🔴🟢
-- The output is a string.
-- The first letter should be the same.
+- The input is a string.🔴🟢♻️💿🍅✅
+- The output is a string. 🔴🟢♻️💿🍅🍅✅
+- The first letter should be the same. 🔴🟢♻️💿🍅🍅✅
 
 ### Process
 
-- Transform the text.
+- Transform the text.🔴🟢♻️💿🍅🍅✅
